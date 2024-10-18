@@ -13,4 +13,4 @@ Interface Segregation - The interfaces are designed to be specific to a particul
 Dependency Inversion - High-level modules (controller, service) should depend on interfaces, allowing the implemenation to be modified.
 
 ## UML Class Diagram
-![UML class diagram](/UMLclassDiagramSOLID)
+![UML class diagram](UMLclassDiagramSOLID.png?raw=true)
